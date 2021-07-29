@@ -1,7 +1,7 @@
 # Huffman-Compression
 C++ based program that can be used to compress files. This program utilizes binary trees and queues in order to optimize compression speed. 
 In some cases, programs/files can be compressed twice in order to achieve even smaller file sizes. This program can also decompress files
-and restore original source code after compression. 
+and restore original source code after compression. I wrote this project as a part of my Datastructures course at Hamilton College.
 
 
 Usage:
